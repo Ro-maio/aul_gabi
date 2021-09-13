@@ -1,2 +1,4 @@
-# aul_gabi
-Aula Gabi
+# aula_gabi
+Exemplo de aplicação em pithon
+
+
